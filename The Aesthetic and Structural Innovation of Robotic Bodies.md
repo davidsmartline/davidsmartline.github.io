@@ -38,7 +38,7 @@ Rotational base
 The telescopic arm serves as the core execution unit, with internal actuation mechanisms driving extension and contraction.
 Fig.1 Long-arm robot
 
-![Super Long Arm](./超长臂.jpg)
+![Super Long Arm](./images/超超长臂图.png)
 
 B. Conical Telescopic Arm
 The arm is composed of multiple scissor units and a semi-scissor unit connected in series:
