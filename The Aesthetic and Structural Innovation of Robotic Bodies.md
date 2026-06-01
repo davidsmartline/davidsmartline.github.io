@@ -38,7 +38,7 @@ Rotational base
 The telescopic arm serves as the core execution unit, with internal actuation mechanisms driving extension and contraction.
 Fig.1 Long-arm robot
 
-
+![Super Long Arm](./超长臂.jpg)
 
 B. Conical Telescopic Arm
 The arm is composed of multiple scissor units and a semi-scissor unit connected in series:
@@ -55,7 +55,7 @@ The entire structure forms a conical topology (0°–80°)
 C. Kinematics and Inverse Kinematics
 Unlike traditional articulated robots, whose kinematics are highly nonlinear, experimental results reveal that the proposed structure exhibits an approximately linear mapping between input and output.
 
-![Super Long Arm](./超长臂.jpg)
+
 
 Fig.2  The Relationship of Driving and Moving Data
 
