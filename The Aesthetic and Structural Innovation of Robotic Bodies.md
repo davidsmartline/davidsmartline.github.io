@@ -55,9 +55,10 @@ The entire structure forms a conical topology (0°–80°)
 C. Kinematics and Inverse Kinematics
 Unlike traditional articulated robots, whose kinematics are highly nonlinear, experimental results reveal that the proposed structure exhibits an approximately linear mapping between input and output.
 
+![Super Long Arm](./超长臂.jpg)
+
 Fig.2  The Relationship of Driving and Moving Data
 
-The fitted relationship is:
    y = 7.8109 x
 Data and curve fit:
 R^2 = 0.9895
