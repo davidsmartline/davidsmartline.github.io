@@ -114,7 +114,7 @@ Fig.3  The prototype of the Lang-arm robot based on non-linear scissors structur
 
 
 
-
+![Heavey Duty](../images/样机重型.jpg)
 
 
 
