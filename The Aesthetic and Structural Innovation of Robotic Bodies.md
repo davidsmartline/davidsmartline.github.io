@@ -113,13 +113,13 @@ Fig.3  The prototype of the Lang-arm robot based on non-linear scissors structur
 
 
 
-
-![Heavey Duty](../images/样机重型.jpg)
-
-
-
-
 Fig.4  The prototype of the heavy duty robot based on non-linear scissors structure
+![Heavey Duty](../images/样机重型.JPG)
+
+
+
+
+
 IV. Advantages
 1) High Stability and Load Capacity
 The conical symmetric structure enhances rigidity and load-bearing capability.
