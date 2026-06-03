@@ -59,7 +59,7 @@ Unlike traditional articulated robots, whose kinematics are highly nonlinear, ex
 
 Fig.2  The Relationship of Driving and Moving Data
 
-![data](./images/TestData2Charts.ods)
+![data](./images/正驱动关系.png)
 
 
    y = 7.8109 x
@@ -73,6 +73,9 @@ Data and curve fit:
 R’^2 = 0.9936
 
 Fig.3 The Relationship of Moving and Driving Data
+
+![data](./images/逆驱动关系.png)
+
 
 This linearization significantly reduces computational complexity, enabling high-precision control using low-cost controllers.
 Further analysis indicates that:
@@ -113,7 +116,7 @@ The actuator stroke is only 5%–10% of total extension, significantly reducing 
 
 Fig.3  The Lang-arm robot based on non-linear scissors structure
 
-![超长臂](../images/超长臂.jpg)
+
 
 Fig.4  The prototype of the heavy duty robot based on non-linear scissors structure
 
