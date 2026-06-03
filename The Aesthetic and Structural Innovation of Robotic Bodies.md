@@ -58,7 +58,7 @@ Unlike traditional articulated robots, whose kinematics are highly nonlinear, ex
 
 
 Fig.2  The Relationship of Driving and Moving Data
-
+![data](./imagesTestData2Charts.ods)
    y = 7.8109 x
 Data and curve fit:
 R^2 = 0.9895
