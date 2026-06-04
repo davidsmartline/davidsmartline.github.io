@@ -51,9 +51,9 @@ By reducing the search space to physically meaningful configurations, the algori
 Using this approach, we successfully identified an optimal solution for a conical scissor arm with a 15-degree cone angle.
 More importantly, the methodology was generalized to determine optimal structural solutions across the entire family of conical-angle scissor arms:
 
-[
-0^\circ < \alpha < 180^\circ
-]
+
+ 0° < a < 180°
+
 
 This result suggests that the solution is not merely a single design, but a broader structural framework applicable to an entire class of robotic manipulators.
 
