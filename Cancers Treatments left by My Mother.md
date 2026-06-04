@@ -1,5 +1,8 @@
 Cancers Treatments left by My Mother
-David Tang  March，2013
+
+David Tang 
+
+March，2013
 
 My mother is a doctor who has been practicing medicine for over 50 years, treating many patients and curing numerous diseases. Among them, there are quite a few cancer patients, each with their own stories. When she was in her 60s, she was diagnosed with advanced lymphoma. Through a combination of chemotherapy and her own medical expertise, she managed to heal herself and even presented an academic report titled "Questioning Symptoms" at Hunan/Yale Medical College. I want to write down a bit of her experiences that I know so that others can benefit from them.
 
