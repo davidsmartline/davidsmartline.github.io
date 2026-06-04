@@ -7,3 +7,5 @@ So, what is the practical utility of this invention? Its applications are immens
 This innovation now serves to break the existing bottleneck hindering AI's interface with the physical world. The eight aforementioned optimizations in robot design represent a direct, cost-effective pathway forward—one that also facilitates the acquisition of high-quality robotic data. Indeed, the quality of robotic data currently available is, by and large, quite poor.
 
 ![模型](./非线性臂模型2.jpg)
+
+![模型](./images/非线性臂模型1.jpg)
