@@ -8,4 +8,9 @@ This innovation now serves to break the existing bottleneck hindering AI's inter
 
 ![模型](./非线性臂模型2.jpg)
 
+Figure 1 illustrates the fundamental difference between conventional and non-linear scissor-arm architectures. In a traditional scissor mechanism, the supporting base progressively narrows as the arm extends, creating an inherent structural instability. The proposed non-linear topology eliminates this effect by maintaining a nearly constant support width during extension. This geometric characteristic forms the basis for achieving long reach, improved stiffness, and higher payload efficiency.
+
 ![模型](./板结构模型.jpg)
+
+Figure 2 is an improvement on Figure 1, changing the rod-like structure into a plate-like structure. While maintaining the original functions, the structure has greater strength, a fuller appearance, and is more suitable for industrial and building applications.
+
