@@ -8,4 +8,4 @@ This innovation now serves to break the existing bottleneck hindering AI's inter
 
 ![模型](./非线性臂模型2.jpg)
 
-![模型](./images/非线性臂模型1.jpg)
+![模型](./板结构模型.jpg)
