@@ -1,8 +1,11 @@
 The Aesthetic and Structural Innovation of Robotic Bodies 
 
 David Jian Tang, Smart Line Robotic Inc., Raleigh, NC27604, USA. 
+
 Yiping Tang,School of Computer Science,Hunan Normal University, Changsha, Hunan Province, China.
+
 Sheng Rao, Cornell University, USA；University of South Florida，Tampa, Florida, USA.
+
 May 20, 2026
 
 
@@ -169,5 +172,7 @@ References
 [7] R. Garcia and J. Martinez, “Telescopic structures for aerospace,” Acta Astronautica, 2019.
 [8] W. Chen et al., “Cube-like modular structures,” Construction Materials, 2021.
 [9] T. Brown and S. Davis, “Intelligent telescopic structures,” IEEE/ASME Trans. Mechatronics, 2022.
+
+https://docs.google.com/document/d/1d5GwW7J2rhdoXXttUciYW6JKlHqovtziG0nMsFusGZc/edit?usp=sharing
 
 
