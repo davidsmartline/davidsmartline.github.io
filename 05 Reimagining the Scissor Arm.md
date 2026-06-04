@@ -9,7 +9,7 @@ Introduction
 For more than a century, scissor mechanisms have been widely used in lifting platforms, deployable structures, construction equipment, and industrial machinery. Their appeal lies in their simplicity, compactness, and ability to generate large extensions from relatively small actuating motions.
 However, a fundamental limitation has persisted:
 
-![Difference:](./非线性臂模型2.jpg)
+![Difference](./非线性臂模型2.jpg)
 
 As a conventional scissor arm extends horizontally, its supporting base becomes progressively narrower, leading to a significant reduction in structural stability.
 This geometric characteristic has constrained the application of scissor mechanisms in robotics, particularly in long-reach manipulators where stiffness, stability, and payload capacity are critical.
@@ -118,3 +118,5 @@ Its importance lies not merely in extending reach or reducing cost, but in chall
 Perhaps the future of robotics will not be achieved by adding more joints, more reducers, and more complexity.
 Perhaps it will be achieved by discovering better structures.
 And sometimes, a better structure changes everything.
+
+![模型](./板结构模型.jpg)
