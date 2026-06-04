@@ -13,6 +13,7 @@ However, a fundamental limitation has persisted:
 
 As a conventional scissor arm extends horizontally, its supporting base becomes progressively narrower, leading to a significant reduction in structural stability.
 This geometric characteristic has constrained the application of scissor mechanisms in robotics, particularly in long-reach manipulators where stiffness, stability, and payload capacity are critical.
+
 Our recent work addresses this limitation through the development of a Non-Linear Scissor Arm (NLSA) architecture. Unlike conventional linear scissor structures, the proposed design maintains a nearly constant support width during horizontal extension, fundamentally changing the mechanical behavior of deployable robotic arms.
 Figure 1 illustrates the fundamental difference between conventional and non-linear scissor-arm architectures. In a traditional scissor mechanism, the supporting base progressively narrows as the arm extends, creating an inherent structural instability. The proposed non-linear topology eliminates this effect by maintaining a nearly constant support width during extension. This geometric characteristic forms the basis for achieving long reach, improved stiffness, and higher payload efficiency. 
 
