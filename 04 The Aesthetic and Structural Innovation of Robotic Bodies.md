@@ -62,7 +62,7 @@ Unlike traditional articulated robots, whose kinematics are highly nonlinear, ex
 
 Fig.2  The Relationship of Driving and Moving Data
 
-![data](./images/正驱动关系.png)
+![data](./正驱动关系.png)
 
 
    y = 7.8109 x
