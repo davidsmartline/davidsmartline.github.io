@@ -1,9 +1,10 @@
 Hello, this is Smart Line's open ideas!
+
 My journey into robotics didn't begin in a laboratory. It began on a factory floor.
 
 Before coming to the United States, I spent four years working as a mechanic in an automobile factory. During that period, I designed and built industrial equipment including grinding machines, broaching machines, and testing systems. That experience taught me that real innovation starts with real manufacturing problems.
 
-In the 1980s, I was selected through China's national scholarship program to study in the United States. Later, while pursuing my PhD at New York University, I worked on multi-axis direct-drive robotic systems, which became my formal introduction to robotics.
+In the 1980s, I was selected through Foreigner's national scholarship program to study in the United States. Later, while pursuing my PhD at New York University, I worked on multi-axis direct-drive robotic systems, which became my formal introduction to robotics.
 
 Shortly after graduation, I joined a project to automate the loading of large automotive glass panels. At that time, the work was extremely dangerous and many factories still relied on manual labor. During on-site testing, I was seriously injured when a glass panel fell on my hand. Fortunately, the project succeeded, and the resulting robotic system helped improve safety throughout the industry. Our team received the industry's highest innovation award.
 
