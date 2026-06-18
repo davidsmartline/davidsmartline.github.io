@@ -12,9 +12,9 @@ At this stage, the system is built around a nine-parameter morphological model, 
 Most importantly, the generated geometries match the manually designed versions that previously required extensive engineering effort.
 This gives us confidence that the underlying design algorithm is working as intended.
 
-![模型](./3°.png)
+![模型](./30°.png)
 
-![模型](./3°.jpg)
+![模型](./30°.jpg)
 
 As additional parameters are introduced, the design space expands exponentially.
 Instead of producing a handful of manually created robot designs, SmartCon can generate billions of unique, editable robot-body configurations, each accompanied by complete geometric metadata. Every generated design becomes a new training sample for future optimization and AI-driven design.
