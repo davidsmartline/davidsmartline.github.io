@@ -14,5 +14,5 @@ It requires new physical architectures designed for reach, efficiency, scalabili
 
 ![模型](./上海展.png)
 
-![模型](./old robot.jpg)
+![模型](./old_robot.jpg)
 
