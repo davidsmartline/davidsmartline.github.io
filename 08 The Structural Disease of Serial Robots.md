@@ -12,4 +12,6 @@ Smart Line Robotics begins from a different premise:
 Physical AI cannot be built only by attaching smarter software to old mechanical bodies Robots with a serial structure, also known as traditional industrial robots, have been in use for 72 years since 1954.
 It requires new physical architectures designed for reach, efficiency, scalability, and intelligence from the beginning.
 
+![模型](./上海展.png)
+
 ![模型](./old robot.jpg)
