@@ -1,4 +1,8 @@
-The Stone Age of Modern Robotics: Are Today’s Robots Still Primitive?
+---
+layout: page
+title: "The Stone Age of Modern Robotics: Are Today’s Robots Still Primitive?"
+date: 2026-07-06
+---
 
 Why must robots look like humans?
 
@@ -14,7 +18,8 @@ People once believed:
 “Steel, being heavier than water, can never float.”
 Today, airplanes cross the skies and steel ships traverse oceans. Those “truths” collapsed under engineering innovation.
 Likewise, millions of years of biological evolution do not necessarily imply engineering perfection.
-Consider the human hand: four fingers grouped on one side, with the thumb isolated on the other. Is this truly the optimal configuration? If biological evolution always produced ideal solutions, why did nature never evolve wheels comparable to those used in automobiles?
+Consider the human hand: four fingers grouped on one side, with the thumb isolated on the other. Is this truly the optimal configuration? If biological evolution always produced ideal solutions, w[...]
+
 Biological evolution optimizes for survival and adaptation, not necessarily for engineering efficiency.
 Robotics may face a similar misconception:
 Perhaps the future of robots lies not in becoming more human, but in becoming more efficient.
@@ -73,7 +78,8 @@ Lower inertia generally enables:
 This metric sits at the foundation of robot control.
 Forward kinematics determines motion trajectories.
 Inverse kinematics determines whether robots can execute practical industrial tasks.
-Many robots perform impressive demonstrations yet struggle with real-world work. One reason is that demonstrations often rely mainly on forward kinematics, whereas industrial tasks demand solving significantly more difficult inverse kinematic problems.
+Many robots perform impressive demonstrations yet struggle with real-world work. One reason is that demonstrations often rely mainly on forward kinematics, whereas industrial tasks demand solving [...]
+
 Greater mathematical complexity increases computational requirements and impacts real-time response capability.
 
 Of course, robotics involves many additional evaluation metrics.
@@ -92,4 +98,3 @@ Final Question
 Are humanoid robots the inevitable future?
 Or are they simply another engineering assumption waiting to be overturned—just as heavier-than-air flight once was?
 The answer may determine the next century of robotics.
-
