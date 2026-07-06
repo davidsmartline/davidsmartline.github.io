@@ -1,4 +1,8 @@
-The Stone Age of Robotics: A Manifesto for the Post-Humanoid Era
+---
+layout: page
+title: "The Stone Age of Robotics: A Manifesto for the Post-Humanoid Era"
+date: 2026-07-06
+---
 
 We believe the robotics industry may be pursuing the wrong question.
 
