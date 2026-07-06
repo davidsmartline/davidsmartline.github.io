@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "The Next Generation of Embodied AI Starts with a New Body"
+date: 2026-07-06
 ---
 
 Smart Line Robotics introduces the world's first modular scissor-structure embodied robot.
