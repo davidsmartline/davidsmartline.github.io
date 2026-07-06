@@ -12,11 +12,7 @@ Success! This achievement resolves the long-standing structural challenge—a pu
 So, what is the practical utility of this invention? Its applications are immense! Fundamentally, it transforms the high-order non-linear equations governing a robot's forward and inverse kinematic[...]
 
 
-![模型](./非线性臂模型2.jpg)
-
 Figure 1 illustrates the fundamental difference between conventional and non-linear scissor-arm architectures. In a traditional scissor mechanism, the supporting base progressively narrows as the [...]
-
-![模型](./板结构模型.jpg)
 
 Figure 2 is an improvement on Figure 1, changing the rod-like structure into a plate-like structure. While maintaining the original functions, the structure has greater strength, a fuller appearan[...]
 
