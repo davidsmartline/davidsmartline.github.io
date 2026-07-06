@@ -1,4 +1,4 @@
-The Next Generation of Embodied AI Starts with a New Body
+layout: page title: "The Next Generation of Embodied AI Starts with a New Body"
 
 Smart Line Robotics introduces the world's first modular scissor-structure embodied robot.
 For years, the robotics industry has focused almost exclusively on one question:
