@@ -1,6 +1,7 @@
 title: Smart Line Robotics
 description: Company website
-base_url: https://davidsmartline
+url: "https://davidsmartline.github.io"
+baseurl: ""
 theme: jekyll-theme-primer
 plugins:
   - jekyll-feed
