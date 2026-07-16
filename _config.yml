@@ -1,5 +1,6 @@
-title: David Smartline
-description: My personal website
+title: Smart Line Robotics
+description: Company website
+base_url: https://davidsmartline
 theme: jekyll-theme-primer
 plugins:
   - jekyll-feed
