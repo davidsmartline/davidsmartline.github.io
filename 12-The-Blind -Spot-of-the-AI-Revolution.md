@@ -90,3 +90,5 @@ A vast new industrial landscape—one capable of creating new companies, new eng
 Perhaps the greatest opportunity of the AI era is not building one perfect humanoid robot.
 
 It is reimagining the physical world itself.
+
+For example, the video below shows a process in the manufacture of large doors and windows. Originally, it required four workers to lift double-sided glass and place it into the frame. If it was placed crookedly, the process had to be repeated. Now, we have designed an automatic gripper to pick up the double-sided glass from the scaffold and insert it into the frame, with a 100% success rate. If humanoid robots were used, four humanoid robots would be needed, which would be dangerous. Now, we can directly drive it using Claude code, and the original automaton has been transformed into a embodied robot.
