@@ -2,6 +2,7 @@
 layout: page
 title: "Manipulator: The Non-Linear Scissor Arm"
 date: 2026-07-06
+permalink: /03-manipulator-the-non-linear-scissor-arm/
 ---
 
 " Manipulator: The Non-Linear Scissor Arm"
