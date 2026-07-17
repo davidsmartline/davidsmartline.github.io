@@ -1,2 +1,2 @@
 # davidsmartline.github.io
-My Blog
+ Blog of Smart Line Robotics.
