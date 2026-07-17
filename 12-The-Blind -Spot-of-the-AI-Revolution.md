@@ -1,5 +1,8 @@
-The Blind Spot of the AI Revolution
-July 16, 2026
+---
+layout: page
+title: "The Blind Spot of the AI Revolution"
+date: 2026-07-16
+---
 
 Today, almost every industry is waiting for a miracle.
 
