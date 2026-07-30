@@ -14,7 +14,7 @@ Thirty years ago, I was building force-sensing robotic hands at NYU. At the time
 During my doctoral research at the Robotics Laboratory of NYU's Courant Institute, I worked on one of the earliest research platforms for dexterous robotic manipulation.
 The robotic hand hardware was developed at the University of Utah, while the control software originated at MIT. My responsibility was to redesign the fingertips by integrating miniature three-axis force sensors into the thumb, index finger, and middle finger. Rather than simply attaching sensors, I reconstructed the distal phalanges themselves—the sensor became part of the finger's mechanical structure, together with a fingertip mount and a compliant skin sleeve.
 
-![模型](./Robotics lab in NYU.jpg)
+![模型](./Robotics_lab_in_NYU.jpg)
 
 Each sensing unit consisted of three hollow square-section flexural columns. The first column was oriented perpendicular to the other two, and pairs of strain gauges were bonded to the columns to form Wheatstone bridge circuits. This configuration enabled simultaneous measurement of multi-axis contact forces during grasping. Combined with appropriate control algorithms, the robot could regulate gripping force and even estimate the weight of an object, such as the amount of water contained in a cup.
 
