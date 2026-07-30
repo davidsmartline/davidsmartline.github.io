@@ -9,7 +9,7 @@ Thirty Years of Building Toward Physical AI
 
 Thirty years ago, I was building force-sensing robotic hands at NYU. At the time, few people imagined that robots would one day become the physical interface of artificial intelligence. Looking back today, I realize those early experiments were not isolated research projects—they were the beginning of a journey that has now evolved into what I call the Physical Architecture of AI.
 
-![模型](./MIT hand.jpg)
+![模型](./MIT_hand.jpg)
     
 During my doctoral research at the Robotics Laboratory of NYU's Courant Institute, I worked on one of the earliest research platforms for dexterous robotic manipulation.
 The robotic hand hardware was developed at the University of Utah, while the control software originated at MIT. My responsibility was to redesign the fingertips by integrating miniature three-axis force sensors into the thumb, index finger, and middle finger. Rather than simply attaching sensors, I reconstructed the distal phalanges themselves—the sensor became part of the finger's mechanical structure, together with a fingertip mount and a compliant skin sleeve.
