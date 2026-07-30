@@ -16,6 +16,9 @@ Each sensing unit consisted of three hollow square-section flexural columns. The
 
 That research formed only one part of my doctoral work. At the same time, I also designed and built three four-axis direct-drive robots from the ground up.
 Looking back after three decades, I realize that many of the engineering challenges we were addressing then—high-performance force sensing, compliant manipulation, lightweight robot structures, and intelligent control—have become central themes once again in today's era of Physical AI.
+
 Today, our company has developed six-axis force sensors, a family of nonlinear topological robotic arms, the SmartCon robot-body generation platform, and a portfolio of more than 200 patents. Rather than isolated inventions, these technologies represent three decades of continuous exploration toward a new physical architecture for intelligent machines.
+
 Artificial Intelligence is advancing at extraordinary speed. What remains to be reinvented is the robot body itself. I believe the next generation of world-class robots will emerge not only from better AI models, but from fundamentally new physical architectures designed specifically for the Physical AI era.
+
 Looking back, I don't see thirty years of separate projects. I see one continuous journey—from robotic sensing, to robot bodies, to the Physical Architecture of AI. Perhaps some ideas simply need the right era before the world is ready for them.
