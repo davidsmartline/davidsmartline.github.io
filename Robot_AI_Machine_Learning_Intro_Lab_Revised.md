@@ -1,7 +1,12 @@
+We are creating AI-related jobs and offering AI vocational training. Through these practical courses, we teach you how to train, manage, and maintain robots, as well as how to generate, clean, and annotate data. In this way, we help you master AI and become part of the AI ​​workforce. These are the course materials for our first lesson.
+
 Introductory AI / Machine Learning Laboratory with Robot
+
 — Understanding “Data → Model → Training → Testing → Deployment” with a One-Axis Long-Reach Robot
+
 Intended for: College / Polytechnic Students and AI Beginners
 Revised Edition · August 2026
+
 1. Course Positioning and Learning Objectives
 This laboratory does not begin with complicated neural-network equations. Instead, students first operate a real robot, collect data by themselves, and then use a simple supervised-learning model to perform training and prediction. In this way, students can directly understand one of the most important workflows in artificial intelligence: Data → Model → Loss Function → Training → Testing → Deployment.
 Strictly speaking, this experiment uses univariate linear regression in supervised learning. It is a fundamental machine-learning model rather than a deep-learning model. Once students understand this complete learning process, the transition to multilayer neural networks and deep learning becomes much easier.
