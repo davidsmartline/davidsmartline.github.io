@@ -1,4 +1,4 @@
-Introductory AI / Machine Learning Laboratory with a Robot
+Introductory AI / Machine Learning Laboratory with Robot
 — Understanding “Data → Model → Training → Testing → Deployment” with a One-Axis Long-Reach Robot
 Intended for: College / Polytechnic Students and AI Beginners
 Revised Edition · August 2026
