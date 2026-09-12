@@ -14,3 +14,4 @@ resulting in a 3.5-fold increase in control response speed and a threefold reduc
 
 ![模型](./西色斯猜想破解2.jpg)
 
+![模型](./重型臂.jpg)
