@@ -2,7 +2,7 @@
 layout: page
 title: " When AI Design the Physical Body of Robots "
 date: 2026-10-25
-------
+---
  
 SmartCon and a New Frontier in Engineering Structures space
 
