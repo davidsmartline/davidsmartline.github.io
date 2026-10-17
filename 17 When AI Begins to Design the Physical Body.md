@@ -185,8 +185,6 @@ without necessarily adding multiple conventional rotary joints.
 
 In certain task-specific machines, this suggests that **mechanical topology itself can perform part of the motion function that would otherwise require additional actuators and controlled axes.** 
 
-![模型](./17-8.png)
-
 # From Design to Traversal
 
 This is where AI becomes especially important.
