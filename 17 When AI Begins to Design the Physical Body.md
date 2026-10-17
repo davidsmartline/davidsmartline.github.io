@@ -10,7 +10,7 @@ This raises an important question for engineering:
 
 **If AI can explore proteins, molecules, and mathematical structures, can it also explore the physical structures of machines? **
 
-In other words, the next frontier of AI may extend beyond software, algorithms, and foundation models into the machines themselves¡ªtheir mechanisms, topology, load paths, motion patterns, and ultimately the **Physical Architecture of AI** that connects intelligence to the physical world.
+In other words, the next frontier of AI may extend beyond software, algorithms, and foundation models into the machines themselvesâ€”their mechanisms, topology, load paths, motion patterns, and ultimately the **Physical Architecture of AI** that connects intelligence to the physical world.
 
 This is the motivation behind our development of **SmartCon**.
 
@@ -46,7 +46,7 @@ This architecture is mature and highly successful. However, as robots are requir
 
 Our nonlinear scissor robot experiments are exploring another path.
 
-Current research and prototype results suggest the potential to reduce¡ªor in certain joints eliminate¡ªthe dependence on precision reducers, lower drive power and structural mass, extend robotic reach and workspace, simplify portions of the kinematic formulation, and create new body architectures optimized for long-stroke and lightweight robotic applications.
+Current research and prototype results suggest the potential to reduceâ€”or in certain joints eliminateâ€”the dependence on precision reducers, lower drive power and structural mass, extend robotic reach and workspace, simplify portions of the kinematic formulation, and create new body architectures optimized for long-stroke and lightweight robotic applications.
 
 One of our ultra-long-reach prototypes has already achieved a reach of **3.5 meters**, and we are exploring substantially larger scales.
 
@@ -70,11 +70,11 @@ The question then changes.
 
 Instead of asking:
 
-**¡°Can an engineer design a good mechanism?¡±**
+**â€œCan an engineer design a good mechanism?â€**
 
 we can begin asking:
 
-**¡°Can AI help engineers search an entire structural space and discover mechanisms that we may never have considered?¡±**
+**â€œCan AI help engineers search an entire structural space and discover mechanisms that we may never have considered?â€**
 
 That is the purpose of SmartCon.
 
@@ -86,9 +86,9 @@ One early family of our nonlinear scissor arms has an important characteristic:
 
 **the cone angle remains fixed.**
 
-For example, a robotic arm designed with a 15¡ã cone angle maintains its overall 15¡ã geometric envelope throughout extension and retraction.
+For example, a robotic arm designed with a 15Â° cone angle maintains its overall 15Â° geometric envelope throughout extension and retraction.
 
-Likewise, structures can be designed for 20¡ã, 30¡ã, 45¡ã, or other angles.
+Likewise, structures can be designed for 20Â°, 30Â°, 45Â°, or other angles.
 
 SmartCon can automatically generate corresponding structures from these parameters.
 
@@ -102,17 +102,17 @@ This seemingly simple property changes a fundamental geometric characteristic of
 
 Something more interesting happened when we expanded SmartCon's parameter-search range.
 
-Engineers naturally tend to restrict designs to ranges that experience tells us are ¡°reasonable¡±¡ªfor example, cone angles between 15¡ã and 45¡ã.
+Engineers naturally tend to restrict designs to ranges that experience tells us are â€œreasonableâ€â€”for example, cone angles between 15Â° and 45Â°.
 
 But a computer does not carry the same design habits.
 
 So we asked:
 
-**What happens at 90¡ã?**
+**What happens at 90Â°?**
 
 And then:
 
-**What happens as we approach 180¡ã?**
+**What happens as we approach 180Â°?**
 
 As SmartCon began generating combinations outside conventional engineering intuition, a new family of structures emerged.
 
@@ -154,14 +154,14 @@ However, parameter exploration revealed that:
 We call this family:
 ## Asymmetric Turning Arms
 
-SmartCon uses parameters such as an ¡°asymmetric half-angle¡± to describe and generate these structures.
+SmartCon uses parameters such as an â€œasymmetric half-angleâ€ to describe and generate these structures.
 
 
 This could have important implications for industrial automation.
 
 For example, a single-drive mechanism could potentially perform:
 
-**extend ¡ú move around an obstacle ¡ú reach a workpiece**
+**extend â†’ move around an obstacle â†’ reach a workpiece**
 
 without necessarily adding multiple conventional rotary joints.
 
@@ -189,7 +189,7 @@ Robot design can therefore begin moving from:
 
 toward:
 
-**Generate ¡ú Traverse ¡ú Evaluate ¡ú Optimize**
+**Generate â†’ Traverse â†’ Evaluate â†’ Optimize**
 
 This may become one of AI's most profound contributions to engineering design.
 
@@ -239,6 +239,6 @@ SmartCon is our attempt to bring AI into the second layer.
 
 Not only to let AI **control machines**, but increasingly to help us:
 
-**discover machines, generate machines, optimize machines¡ªand ultimately redesign the physical body of machines.**
+**discover machines, generate machines, optimize machinesâ€”and ultimately redesign the physical body of machines.**
 
 This may be where the **Physical Architecture of AI** truly begins.
