@@ -165,8 +165,12 @@ However, parameter exploration revealed that:
 
 **with an asymmetric topology, a mechanism with only one primary drive input can generate significant turning motion at its endpoint.**
 
+![模型](./17-6.png)
+
 We call this family:
 ## Asymmetric Turning Arms
+
+![模型](./17-7.png)
 
 SmartCon uses parameters such as an “asymmetric half-angle” to describe and generate these structures.
 
@@ -181,7 +185,7 @@ without necessarily adding multiple conventional rotary joints.
 
 In certain task-specific machines, this suggests that **mechanical topology itself can perform part of the motion function that would otherwise require additional actuators and controlled axes.** 
 
----
+![模型](./17-8.png)
 
 # From Design to Traversal
 
