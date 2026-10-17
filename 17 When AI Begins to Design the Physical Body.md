@@ -1,5 +1,10 @@
-When AI Begins to Design the Physical Body  
-SmartCon and a New Frontier in Engineering Structures
+---
+layout: page
+title: " When AI Design the Physical Body of Robots "
+date: 2026-10-25
+------
+ 
+SmartCon and a New Frontier in Engineering Structures space
 
 **David Tang**  
 **October 15, 2026**
@@ -14,7 +19,7 @@ In other words, the next frontier of AI may extend beyond software, algorithms, 
 
 This is the motivation behind our development of **SmartCon**.
 
----
+![模型](./17-2.png)
 
 ## From Conventional Scissor Mechanisms to Nonlinear Scissor Architectures
 
@@ -30,11 +35,13 @@ Through topological structural design, we developed a family of nonlinear scisso
 
 The physical prototype shown in Figure 1 represents one example.
 
+![模型](./17-3.npg)
+
 During extension, its base mounting locations can remain fixed while the mechanism expands within a predefined conical domain, providing a different structural approach for long-reach robotic arms. 
 
 **[Figure 1: Physical prototype of a nonlinear scissor robotic arm]**
 
----
+![模型](./17-31.jpg)
 
 ## Why Does This Matter for Robotics?
 
